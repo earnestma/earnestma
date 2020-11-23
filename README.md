@@ -18,6 +18,5 @@
 * Email + GPG info: [here](https://www.earnestma.xyz/about#contact)
 * Mastodon: [@earnestma on fosstodon.org](https://fosstodon.org/@earnestma)
 * Usual IRC nick: earne
-	* [Rizon](https://rizon.net) - #earne ([Webchat link](http://qchat.rizon.net/?randomnick=1&channels=earne&prompt=1&uio=d4))
+	* [Rizon](https://rizon.net) - #earne ([Webchat link](://kiwiirc.com/client/irc.rizon.net/?nick=kiwi-ghpr|?#earne))
 	* Freenode: earne
-
