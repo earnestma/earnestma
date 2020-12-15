@@ -15,7 +15,7 @@
 
 ## ✉ Contact me
 
-* Email + GPG info: [here](https://www.earnestma.xyz/about#contact)
+* Email + GPG info: [here](https://www.earnestma.xyz/contact)
 * [Mastodon](https://tech.lgbt/@earnestma)
 * Usual IRC nick: earne
 	* [Rizon](https://rizon.net) - #earne ([Webchat link](https://kiwiirc.com/client/irc.rizon.net/?nick=kiwi-ghpr?#earne))
