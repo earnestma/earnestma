@@ -10,13 +10,8 @@
 
 ---
 
-* ☕ Most of my projects are [hosted here](https://git.earne.link/) with mirrors on Github
+* ☕ Most of my projects are **[hosted here](https://git.earne.link/)** with mirrors on Github
 * 💻 [Website/ blog](https://www.earnestma.xyz/)
 
-## ✉ Contact me
+## [✉ Contact me](https://www.earnestma.xyz/contact)
 
-* Email + GPG info: [here](https://www.earnestma.xyz/contact)
-* [Mastodon](https://tech.lgbt/@earnestma)
-* Usual IRC nick: earne
-	* [Rizon](https://rizon.net) - #earne ([Webchat link](https://kiwiirc.com/client/irc.rizon.net/?nick=kiwi-ghpr?#earne))
-	* Freenode: earne
