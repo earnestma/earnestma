@@ -11,6 +11,6 @@
 ---
 
 * ☕ Most of my projects are **[hosted here](https://git.earne.link/)** with mirrors on Github. [Why?](https://wiki.earnestma.xyz/page/GitHub)
-* 💻 [Website/ blog](https://www.earnestma.xyz/), [Wiki](https://wiki.earnestma.xyz)
+* 💻 [Website/ blog](https://earnestma.xyz/), [Wiki](https://wiki.earnestma.xyz)
 
-## [✉ Contact me](https://www.earnestma.xyz/contact)
+## [✉ Contact me](https://earnestma.xyz/contact)
