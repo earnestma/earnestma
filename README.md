@@ -10,7 +10,7 @@
 
 ---
 
-* ☕ Most of my projects are **[hosted here](https://git.earne.link/)** with mirrors on Github. [Why?](https://wiki.earnestma.xyz/page/GitHub)
+* ☕ Most of my projects are **[hosted here](https://gitea.earne.link/)** with mirrors on Github. [Why?](https://wiki.earnestma.xyz/page/GitHub)
 * 💻 [Website/ blog](https://earnestma.xyz/), [Wiki](https://wiki.earnestma.xyz)
 
 ## [✉ Contact me](https://earnestma.xyz/contact)
