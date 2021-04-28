@@ -1,6 +1,6 @@
 ## Hello!
 
-Most of my projects are **[hosted on my Gitea instance](https://git.earne.link/earnestma)**, you may find some mirrors here on GitHub.
+Most of my projects are **[hosted on my Gitea instance](https://git.earne.link/earnestma)**, you may find some mirrors here on GitHub. [Why?](https://wiki.earnestma.xyz/#/page/GitHub)
 
 * Pronouns: [they/he](https://pronoun.is/they/:or/he)
 * [Website + Blog](https://earnestma.xyz)
